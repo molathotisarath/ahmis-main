@@ -1,0 +1,20 @@
+{
+  "heading": "AYUSH HOSPITAL MANAGEMENT INFORMATION SYSTEM",
+  "subheading": "(A-HMIS)",
+  "about": "The Digital India Movement initiated by Govt. of India has made significant changes in IT sector. We are witnessing tremendous improvement in application of Information Technology (IT) in every Ministry and its organizations. Health is a major concern in India. Implementation of IT in healthcare is being accelerated to provide effective and better care for citizens of India. Ministry of Ayush has taken initiative to get onboard in healthcare Information technology implementation projects. In this regard, Ministry of Ayush has created Ayush GRID to get all the IT projects under one umbrella. It is integration of IT projects exclusively meant for improvement and facilitation of Ayush pan India. The initiative is a poised to emerge as a game changer as it is the first of its kind citizen centric service from Government of India to provide Electronic Health Record and Personal Health Records facility to the recipients of Ayush Health Services catered through Research Councils, National Institutes and other related agencies under Ministry of Ayush, Government of India. A-HMIS is a comprehensive IT platform to effectively manage all functions of health care delivery systems and patient care in Ayush facilities. THERAN (THE Research Application Nexus) - Hospital Management Information System developed by Siddha Central Research Institute, Chennai under Central Council for Research in Siddha, Ministry of Ayush was near to the requirement to give complete solution of HMIS amongst various HMIS present in Ayush Institutions of Govt. Of India, hence it was decided to upscale and customize it as per systems in Ayush.",
+  "objectives": "To improve patient care in Ayush To improve work efficiency in Ayush Efficient management of Ayush hospital Effective documentation of Ayush To derive comprehensive data of all Ayush hospital, which helps in effective Ayush health policy. To improve research in Ayush To eliminate the chances of errors in Ayush hospital To collect data on National Ayush morbidities",
+  "features": "It has an exclusive dashboard for citizens to interact and engage with Ayush Health Services across India. It captures the data in real time It is easy to use It is highly secured It integrates all the Ayush systems Compliance with E.H.R Standards -2016 [MoH and FW] and other standards viz., HL7, LOINC etc It has inbuilt standards – dual coding system National Ayush Morbidity Code ICD 10",
+  "contact": "Ministry of Ayush Ayush Bhawan, B Block, GPO Complex, INA, New Delhi – 110023 Email- itconsultant-ayush@nic.in srconsultant-ayush@nic.in.",
+  "benfits": "Effective Clinical documentation Effective data management including medical data retrieval Adoptive new features of dual coding ICD 10, and National Ayush Morbidity Code Supports full range of Data capture and Data management functions. State of art report generation. Boon for getting the NABH and NABL accreditation Comprehensive collection of National Ayush Morbidity codes",
+  "getAyushId": "Get your Ayush Appointment",
+  "register": "Register to get Ayush ID",
+  "aboutHeading": "About A-HMIS",
+  "featuresHeading": "Special features of A-HMIS",
+  "objectivesHeading": "Objectives of A-HMIS",
+  "benfitsHeading": "Benefits",
+  "contactHeading": "Contact Us",
+  "homeBtn": "Home",
+  "login": "Login",
+  "servicesHeading": "Our Services",
+  "hindi": "Hindi"
+}

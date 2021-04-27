@@ -1,0 +1,16 @@
+npm config set proxy http://softwarece1:bstc*1234@172.16.24.45:3128/
+npm config set https-proxy http://softwarece1:bstc*1234@172.16.24.45:3128/
+
+npm install -g create-react-app
+
+code --proxy-server="xxx.xx.xx.xx:port"
+npm config set registry http://registry.npmjs.org/
+npm config set strict-ssl false
+
+npx create-react-app ahmis
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install react-router-dom
+npm install --save react-elastic-carousel
+npm install --save styled-components
+npm install infinite-react-carousel
